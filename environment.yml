@@ -1,0 +1,7 @@
+name: CHE629_bd_assignment
+channels:
+    - conda-forge
+dependencies:
+    - matplotlib
+    - numpy
+    - scipy
